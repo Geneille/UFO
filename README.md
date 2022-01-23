@@ -23,14 +23,27 @@ related to UFO sightings.
 
 The following image (Figure 1) shows the webpage without any filter applied for the table information. This is the default view when the webpage loads. 
 
+
 Figure 1: The default unfiltered table
 
-The following images illutrates how the user can interact with the information. The user inputs their filter criteria and the resulting filtered information is then displayed in the table. The user can use the 'filter' button to initiate the search and the 'reset' button to reset the table to the defalut unfiltered table.
+
+<img width="922" alt="fig1" src="https://user-images.githubusercontent.com/92636438/150662555-41408b86-50d1-48f3-9fa4-dc168feee6f2.png">
+
+
+
+The following images illustrates how the user can interact with the information. The user inputs their filter criteria and the resulting filtered information is then displayed in the table. The user can use the 'filter' button to initiate the search and the 'reset' button to reset the table to the defalut unfiltered table.
 
 Figure 2: Image showing filtered table with criterion "light".
 
 
+<img width="638" alt="fig2" src="https://user-images.githubusercontent.com/92636438/150662560-402e975e-f530-48ba-ba9b-8559b116e221.png">
+
+
+
 Figure 3: Image showing filtered table with two criteria "light and el cajon".
+
+
+<img width="652" alt="fig3" src="https://user-images.githubusercontent.com/92636438/150662570-9deb8cd8-8ffb-4a50-942a-1b362692d184.png">
 
 
 ## Summary
@@ -39,4 +52,4 @@ The webpage in its current state effectively displays the information provided. 
 
 * utilize webscpraping, from open source websites, to search for current updates and sightings. This would ensure current information is displayed for the user.
 
-* allow users to log their sightings and or images, or a link/contact information where users can input their sightings for review and validation by the development team.
+* allow users to log their sightings and or images, and or a link/contact information where users can input their sightings/information for review and validation by the development team can be included on the webpage. 
